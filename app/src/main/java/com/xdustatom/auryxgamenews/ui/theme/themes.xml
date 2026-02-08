@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base app theme required by Android -->
+    <style name="Theme.AuryxGameNews" parent="Theme.AppCompat.NoActionBar">
+        <!-- Compose handles UI -->
+    </style>
+
+</resources>
